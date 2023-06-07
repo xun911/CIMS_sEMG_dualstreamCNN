@@ -1,6 +1,6 @@
 # Surface electromyography based gesture recognition based on dual-stream CNN
 
-This repo contains the code for the intra-subject experiments on NinaProDB4 in the paper: 卫文韬; 李亚军; 基于双流卷积神经网络的肌电信号手势识别方法, 计算机集成制造系统, 2022, 28(1): 124-131. DOI: [10.13196/j.cims.2022.01.012]. 
+This repo contains the code for the intra-subject experiments on NinaProDB2 in the paper: 卫文韬; 李亚军; 基于双流卷积神经网络的肌电信号手势识别方法, 计算机集成制造系统, 2022, 28(1): 124-131. DOI: [10.13196/j.cims.2022.01.012]. 
 
 It should be mentioned that the code for feature extraction is not included in this repo.
 
@@ -13,7 +13,7 @@ It should be mentioned that the code for feature extraction is not included in t
 
 ## Usage
 
-For detailed methods of running the code and training on NinaProDB5, please contact weiwentao@njust.edu.cn
+For detailed methods of running the code and training on NinaProDB2, please contact weiwentao@njust.edu.cn
 
 ## License
 
